@@ -1,0 +1,2477 @@
+
+Confirmed workspace: C:\Users\AMBRISH\muse-simlab.
+
+The root currently contains .agents/ and skills-lock.json; no application code or root AGENTS.md is present.
+
+15 workspace skills have SKILL.md files in .agents/skills:
+
+3dviz-pro-max
+banner-design
+brand
+design
+design-system
+frontend-design
+slides
+systematic-debugging
+test-driven-development
+ui-styling
+ui-ux-pro-max
+vercel-composition-patterns
+vercel-react-best-practices
+verification-before-completion
+web-design-guidelines
+skills-lock.json tracks 7 of those 15; the other eight are present but unlisted in the lockfile.
+
+Global system skills and cached plugin skills are also present, including Figma, Render, Sites, Supabase, Vercel, and Work Pets. Cached presence alone doesn’t confirm plugin activation.
+
+No files were created or modified.
+
+Dei, super! Codex correct-ah work aagudhu. ✅
+
+Codex confirm pannirukku:
+
+Project folder correct.
+
+15 skills installed.
+
+Innum website code create aagala.
+
+Master prompt file-um illa.
+
+Ippo namma website build start pannalaam. Download problem irukkuradhunaala, Codex-kku direct-ah instructions kuduppom.
+
+Ippo Codex chat-la idha paste pannu
+Start building MUSE SIMLAB in the current workspace.
+
+Use the relevant installed skills under .agents/skills, especially 3dviz-pro-max, ui-ux-pro-max, frontend-design, vercel-react-best-practices, and verification-before-completion.
+
+Create a premium, original, Lusion-inspired cinematic 3D website called MUSE SIMLAB, with the tagline Design Intelligence. Simulate Reality.
+
+Build a beautiful interactive 3D landing experience and a prompt-driven gateway to three labs:
+
+Muse Wonder Lab: Interactive AI architecture, memory, attention, and working transformer attention calculations.
+
+MTIA 400 Lab: Detailed animated 3D AI chip reconstruction, exploded components, memory/dataflow, and working matrix multiplication.
+
+Meta Robot Max Lab: Detailed articulated 3D humanoid, interactive environment, A* pathfinding, obstacle replanning, and manipulation demonstrations.
+
+Use React, TypeScript, Vite, React Three Fiber, Three.js, Drei, GSAP, and appropriate supporting libraries.
+
+Each lab must include cinematic assembly animations, orbit/zoom inspection, component labels, guided explanations, working demonstrations, replay controls, and a return to the main gateway.
+
+Use original visual assets and distinguish conceptual reconstructions from official Meta designs.
+
+Create AGENTS.md and docs/PROGRESS.md. Implement actual code immediately, not just a plan. Install dependencies, run the application, test the build, inspect the browser using Playwright where available, and fix errors.
+
+Prioritize a complete working demonstration across all three labs before additional visual polish. Never claim untested functionality is complete.
+
+Important da: Idhu build start panna prompt. Namma original 2,214-line master document-la irukkura ella detailed requirements-um indha short prompt-la illa. Full specification later load panna vendiyirukkum.
+
+Ippo indha prompt paste panni Enter press pannu. Codex files create panna permission ketta, enna command run panna pogudhunu paarthu approve pannu.
+
+Original full prompt file verified: MUSE SIMLAB Master Prompt. Download issue continue aana, direct build prompt use pannalaam.
+
+
+MUSE_SIMLAB_COMPLETE_CODEX_MASTER_PROMPT.md
+Document
+Start building MUSE SIMLAB in the current workspace.
+
+Use the relevant installed skills under .agents/skills, especially 3dviz-pro-max, ui-ux-pro-max, frontend-design, vercel-react-best-practices, and verification-before-completion.
+
+Create a premium, original, Lusion-inspired cinematic 3D website called MUSE SIMLAB, with the tagline Design Intelligence. Simulate Reality.
+
+Build a beautiful interactive 3D landing experience and a prompt-driven gateway to three labs:
+
+Muse Wonder Lab: Interactive AI architecture, memory, attention, and working transformer attention calculations.
+MTIA 400 Lab: Detailed animated 3D AI chip reconstruction, exploded components, memory/dataflow, and working matrix multiplication.
+Meta Robot Max Lab: Detailed articulated 3D humanoid, interactive environment, A* pathfinding, obstacle replanning, and manipulation demonstrations.
+Use React, TypeScript, Vite, React Three Fiber, Three.js, Drei, GSAP, and appropriate supporting libraries.
+
+Each lab must include cinematic assembly animations, orbit/zoom inspection, component labels, guided explanations, working demonstrations, replay controls, and a return to the main gateway.
+
+Use original visual assets and distinguish conceptual reconstructions from official Meta designs.
+
+Create AGENTS.md and docs/PROGRESS.md. Implement actual code immediately, not just a plan. Install dependencies, run the application, test the build, inspect the browser using Playwright where available, and fix errors.
+
+Prioritize a complete working demonstration across all three labs before additional visual polish. Never claim untested functionality is complete.
+
+
+first intha prompt ah potutu aprm antha 2000lines next crt ah
+
+…
+Aama da, correct! ✅ Aana oru important change.
+
+First: Nee ippo anuppuna short prompt-ah Codex-la paste panni Enter press pannu.
+
+Next: Codex initial setup and coding start pannattum.
+
+Then: 2,000+ lines complete master prompt-ah Codex-ku kudu. Adhu dhaan namma full specification.
+
+Finally: Already build panna code-ah delete pannama, master prompt-la missing requirements implement panna sollanum.
+
+Important: 2,000 lines-ah ore message-la paste pannaama, MUSE_SIMLAB_COMPLETE_CODEX_MASTER_PROMPT.md file-ah project-la save panni Codex read panna solradhu best. Download problem irukkuradhunaala, text-ah VS Code file-la paste pannalaam.
+
+Ippo first short prompt run pannu da. Codex enna reply pannudho anuppu. Appuram full master prompt-ah correct-ah integrate pannuvom.
+
+dei antha 2000lines ah text file ah kududa download panna mudiayala and open panna mudiyala
+
+Worked for 14s
+Dei, purinjiduchu da. Un original complete 2,214-line master prompt file ennidam irukku. Adhu missing aagala.
+
+File: MUSE_SIMLAB_COMPLETE_CODEX_MASTER_PROMPT.md
+
+Size: approximately 79 KB
+
+Total: 2,214 lines
+
+Contains: Lusion-style 3D experience, Muse Wonder, MTIA 400, Robot Max, Nebius integration, 15 skills, MCP, animations, tests, complete build requirements.
+
+Unakku download/open aagala na, chat-laye copy panna mudiyura text-ah kudukkanum. Adhuku easiest method file content-ah parts-ah anuppuradhu; ellathayum VS Code-la ore .txt file-la paste pannalaam.
+
+Part 1 — Master Prompt (beginning)
+VS Code-la MUSE_SIMLAB_COMPLETE_CODEX_MASTER_PROMPT.txt nu New File create pannu. Keela irukkura text-ah copy panni paste pannu.
+
+
+# MUSE SIMLAB — COMPLETE CODEX IMPLEMENTATION COMMAND
+
+Use this entire document as the binding project specification. The output must be actual working code, not just a plan or a static mockup.
+
+## 0. EXISTING MACHINE, TOOLS & PROJECT
+
+Local project root:
+C:\Users\AMBRISH\muse-simlab
+
+Already installed project skills:
+1. 3dviz-pro-max
+2. banner-design
+3. brand
+4. design
+5. design-system
+6. frontend-design
+7. slides
+8. systematic-debugging
+9. test-driven-development
+10. ui-styling
+11. ui-ux-pro-max
+12. vercel-composition-patterns
+13. vercel-react-best-practices
+14. verification-before-completion
+15. web-design-guidelines
+
+Configured MCP servers:
+- playwright
+- context7
+- motion
+
+Use the relevant skills for each task. Verify MCP connections before relying on them. Do not reinstall existing skills or tools.
+
+Execute real code changes, run tests, inspect browser output, fix errors, and track progress. Never claim unverified functionality is complete.
+
+# CODEX MASTER BUILD PROMPT — MUSE SIMLAB
+
+## YOUR MISSION
+
+You are the principal creative technologist, technical director, WebGL engineer, scientific visualization engineer, robotics simulation engineer, AI systems architect, UI/UX designer, animation director, performance specialist, QA engineer, and full-stack developer responsible for building MUSE SIMLAB.
+
+Tagline: Design Intelligence. Simulate Reality.
+
+Build a complete, original, visually exceptional, production-quality interactive 3D website inspired by the sophistication and cinematic storytelling of:
+
+https://lusion.co/
+
+Do not copy Lusion's source code, identity, animations, assets, or designs. Achieve a comparable standard of creative execution through an original visual language.
+
+The finished website must feel like a premium real-time 3D experience created by a world-class creative production studio, not a conventional React landing page.
+
+The entire website, from its first visible frame to its final closing scene, must be a cohesive interactive 3D experience.
+
+## THE THREE MAIN SIMULATION EXPERIENCES
+
+1. MUSE WONDER LAB
+
+Complete interactive 3D explanation and simulation of Meta Muse Wonder's publicly documented capabilities, supported by an illustrative AI computational model.
+
+2. MTIA 400 LAB
+
+High-fidelity interactive 3D engineering visualization and functional educational simulation of Meta's MTIA 400 AI accelerator.
+
+3. META ROBOT MAX LAB
+
+Detailed interactive 3D conceptual reconstruction and functional robotics simulation inspired by Meta's reported Max humanoid prototype.
+
+A user must be able to type a natural-language prompt about any of these three subjects, initiate an immersive cinematic construction sequence, interact with the resulting simulated system, and receive a complete guided explanation from beginning to end.
+
+AI integration:
+Meta Muse Spark Open hosted through Nebius Token Factory.
+
+Available provider credit:
+Approximately $25. Use responsibly.
+
+Important distinction:
+Muse Wonder is the subject of the first simulation. Muse Spark Open is the model used for explanations and structured scene planning through Nebius. They are not the same model.
+
+# PART 1 — NON-NEGOTIABLE CREATIVE STANDARD
+
+## 1.1 THE LUSION BENCHMARK
+
+Apply these creative interaction principles:
+
+- A continuously alive real-time 3D environment.
+- Pointer-responsive physical objects.
+- Smooth inertia, springs, damping, and subtle physics.
+- Beautifully art-directed camera motion.
+- Spatial transitions instead of page reloads.
+- Scroll-driven cinematic sequences where appropriate.
+- Fullscreen compositions with extraordinary depth.
+- Objects assembling, separating, transforming, reacting, and flowing.
+- Strong visual storytelling through movement.
+- Responsive lighting, atmospheric fog, and dimensional layering.
+- Sophisticated typography integrated with spatial composition.
+- Interactive objects that reward exploration.
+- A distinct experience from entrance to ending.
+- A strong relationship between visual effects and user actions.
+Idhu first portion mattum da, full 2,214 lines illa. Original document-oda remaining content-ah successive parts-ah kudukka mudiyum.
+
+Ippo Part 2 nu sollu; next portion continue panren.
+
+dei antha 2k lines text document file  ah na download panna kudu atha apdiye na ithula paste pandrein
+
+Worked for 7s
+Dei, full 2,214 lines master prompt-ah .txt file-ah ready pannitten da! ✅
+
+MUSE SIMLAB — Complete Master Prompt
+
+TXT document · 2,214 lines · 79 KB
+
+ Download Complete 2,214-Line TXT File
+
+Download pannitu:
+
+.txt file open pannu.
+
+Ctrl + A → Ctrl + C.
+
+VS Code-la Codex chat-la Ctrl + V.
+
+Idhu summary illa da — original complete master prompt, oru line-um cut pannala.
+
+
+MUSE_SIMLAB_COMPLETE_2214_LINES.txt
+Document
+# MUSE SIMLAB — COMPLETE CODEX IMPLEMENTATION COMMAND
+
+> **Use this entire document as the binding project specification.** The full 17-part original project brief is preserved below, with additional execution, visual-direction, skill, MCP, token-use, testing, and acceptance requirements. The output must be actual working code in the currently open local repository, not a rewritten plan or a glossy static mockup.
+
+## 0. EXISTING MACHINE, TOOLS & PROJECT — READ FIRST
+
+**Local project root on Windows:** `C:\Users\AMBRISH\muse-simlab`
+
+**Known verified tools:** Node.js 24.22.1, npm 11.19.1, Git 2.56.0, Python 3.14.6, VS Code 1.145.0, Codex CLI 0.166.0.
+
+**15 existing project-level Codex skills** already visible through `npx skills list -a codex` and located under `.agents/skills/`:
+
+1. `3dviz-pro-max` — high-quality 3D visualization, modeling, camera, scene practice.
+2. `banner-design` — art direction for promotional visual compositions where needed.
+3. `brand` — MUSE SIMLAB identity, verbal and visual consistency.
+4. `design` — systematic visual design principles.
+5. `design-system` — visual tokens, typographic and component systems.
+6. `frontend-design` — creative high-end frontend implementation.
+7. `slides` — only when creating the optional presentation/demo material.
+8. `systematic-debugging` — root-cause debugging for failing features.
+9. `test-driven-development` — test-first algorithms and simulation controls.
+10. `ui-styling` — visual polish and UI implementation.
+11. `ui-ux-pro-max` — design system, UX patterns, guidelines, accessibility.
+12. `vercel-composition-patterns` — robust React composition.
+13. `vercel-react-best-practices` — React performance, effects, re-rendering.
+14. `verification-before-completion` — insist on evidence before claiming success.
+15. `web-design-guidelines` — keyboard, accessibility, cross-device quality.
+
+**Configured Codex MCP servers:**
+- `playwright` — local `npx -y @playwright/mcp@latest`; status *enabled*. `Auth: Unsupported` is normal for a local stdio server and not proof of failure.
+- `context7` — `https://mcp.context7.com/mcp`; status *enabled*, OAuth sign-in done.
+- `motion` — `https://mcp.motion.dev`; status *enabled*, OAuth sign-in done.
+
+**MANDATORY:** Make one real, harmless tool call to each MCP before relying on it. Configured/enabled is not the same as tested/working. If one fails, document it and continue using local tools/manual docs; do not block all progress.
+
+**Skill activation protocol:** At the start of each milestone, inspect and use only 2–5 relevant installed skills, then comply with their guidance. E.g., cinematic hero = `frontend-design` + `3dviz-pro-max` + `ui-ux-pro-max`; transformer/robot math = `test-driven-development` + `3dviz-pro-max`; React code = `vercel-react-best-practices` + `vercel-composition-patterns`; QA = `systematic-debugging` + `verification-before-completion`. Do not load all 15 skill files into context for every minor change. Skills are guidance, not source-code packages. Never run unreviewed scripts from skill instructions with unchecked permissions.
+
+**No reinstallation:** Do not re-download installed skills, npm tools or MCP servers. Prefer project reuse. Add a small project-specific skill/checklist only when an actual gap is identified.
+
+**Developer instruction:** Execute real edits, run shell commands, perform tool-based browser tests, verify results, document incomplete work, continue with the next actionable milestone. Do not stop after a readiness report. Do not claim any simulation, screenshot, API test, deployment or FPS succeeded unless independently observed. If needed, ask only for a genuinely missing secret (Nebius key) and keep developing the offline experience without it.
+
+**Date:** 4 November 2026. This is a time-sensitive hackathon project: prioritize a working, judge-visible end-to-end demonstration of all 3 labs, then pursue additional polish, with no fake completeness claims. Do not skip major requirements silently.
+
+---
+
+# CODEX MASTER BUILD PROMPT — MUSE SIMLAB
+
+## YOUR MISSION
+
+You are the principal creative technologist, technical director, WebGL engineer, scientific visualization engineer, robotics simulation engineer, AI systems architect, UI/UX designer, animation director, performance specialist, QA engineer, and full-stack developer responsible for building **MUSE SIMLAB**.
+
+**Tagline:** Design Intelligence. Simulate Reality.
+
+Build a complete, original, visually exceptional, production-quality interactive 3D website inspired by the sophistication and cinematic storytelling of:
+
+**https://lusion.co/**
+
+This is NOT an instruction to copy Lusion's source code, identity, animations, assets, or designs. Study its interaction principles and achieve a comparable standard of creative execution through an original visual language.
+
+The finished website must feel like a premium real-time 3D experience created by a world-class creative production studio, not a conventional React landing page.
+
+The entire website, from its first visible frame to its final closing scene, must be a cohesive interactive 3D experience.
+
+### The three main simulation experiences
+
+1. **MUSE WONDER LAB** — Complete interactive 3D explanation and simulation of Meta Muse Wonder's publicly documented capabilities, supported by an illustrative AI computational model.
+2. **MTIA 400 LAB** — High-fidelity interactive 3D engineering visualization and functional educational simulation of Meta's MTIA 400 AI accelerator.
+3. **META ROBOT MAX LAB** — Detailed interactive 3D conceptual reconstruction and functional robotics simulation inspired by Meta's reported Max humanoid prototype.
+
+A user must be able to type a natural-language prompt about any of these three subjects, initiate an immersive cinematic construction sequence, interact with the resulting simulated system, and receive a complete guided explanation from beginning to end.
+
+**Our AI integration:** Meta Muse Spark Open, hosted through Nebius Token Factory.
+
+**Available provider credit:** Approximately $25. Use it responsibly.
+
+**Important distinction:** Muse Wonder is the SUBJECT of the first simulation. Muse Spark Open is the MODEL used to power explanations and structured scene planning through Nebius. They are NOT the same model.
+
+---
+
+# PART 1 — NON-NEGOTIABLE CREATIVE STANDARD
+
+## 1.1 The Lusion benchmark
+
+Study and apply these creative interaction principles:
+
+- A continuously alive real-time 3D environment.
+- Pointer-responsive physical objects.
+- Smooth inertia, springs, damping, and subtle physics.
+- Beautifully art-directed camera motion.
+- Spatial transitions instead of page reloads.
+- Scroll-driven cinematic sequences where appropriate.
+- Fullscreen compositions with extraordinary depth.
+- Objects assembling, separating, transforming, reacting, and flowing.
+- Strong visual storytelling through movement.
+- Responsive lighting, atmospheric fog, and dimensional layering.
+- Sophisticated typography integrated with spatial composition.
+- Interactive objects that reward exploration.
+- A distinct experience from entrance to ending.
+- A strong relationship between visual effects and user actions.
+
+**Reference:** https://lusion.co/
+
+Do not reproduce Lusion's specific visual content. Create an original scientific-futurist aesthetic for MUSE SIMLAB.
+
+## 1.2 Our visual identity
+
+Art direction:
+
+- Deep near-black background.
+- Obsidian and graphite materials.
+- Brushed titanium and machined aluminum.
+- Dark optical glass.
+- Transparent computational surfaces.
+- Electric cyan information channels.
+- Violet and indigo intelligence fields.
+- Muted gold highlights for attention and key information.
+- Controlled white highlights.
+- Cinematic shadows.
+- Restrained bloom.
+- Volumetric-looking illumination, where feasible and performant.
+- High-quality PBR material response.
+- Layered spatial compositions.
+- Extreme attention to scale, silhouette, material roughness, reflections, bevels, microdetails, and lighting.
+
+The 3D world must feel physically substantial.
+
+Do not make the website look like:
+- A generic AI SaaS dashboard.
+- A collection of Bootstrap-style cards.
+- A basic Tailwind template.
+- An ordinary chatbot with a background animation.
+- Floating primitive cubes presented as an advanced simulation.
+- A 2D infographic.
+- A slideshow.
+- A prerecorded video disguised as a simulation.
+- A collection of stock images.
+- A large amount of random particles without coherent meaning.
+
+Use handcrafted, meaningful animated geometry.
+
+### Required visual sophistication
+
+The user wants the appearance of:
+
+1. Massive layered transformer systems with translucent Q/K/V panels, flowing signals, intricate mechanical architecture, and cyan/gold illumination.
+2. Dense neural structures with beautifully organized luminous connections, hierarchical layers, spatial depth, and moving information.
+3. Detailed exploded-view assemblies with individual components, stacked structural elements, and technical annotations.
+4. Precision-engineered chip packaging with high-quality metallic and semiconductor materials.
+5. A visually credible articulated humanoid robot, not a stick figure or primitive mannequin.
+
+Every major object must hold up to close inspection.
+
+---
+
+# PART 2 — FULL WEBSITE EXPERIENCE
+
+This is a complete experience, not merely three simulation components.
+
+Implement the following sequence.
+
+## EXPERIENCE 00 — INITIAL LOADING
+
+Create an art-directed loading experience.
+
+Visuals:
+- Near-black background.
+- Small luminous central point.
+- Delicate rotating circular geometry.
+- A subtle signal waveform.
+- MUSE SIMLAB typography.
+- Actual loading progress where measurable.
+
+As assets become ready:
+- The central point expands.
+- Metallic structures appear from darkness.
+- Lighting activates.
+- The camera moves toward the intelligence core.
+
+Requirements:
+- No arbitrary 10-second forced loading screens.
+- No fake loading percentages.
+- Show genuine loading progress or an honest indeterminate state.
+- Provide a Skip Intro option once interactive assets are ready.
+- Provide reduced-motion alternatives.
+
+## EXPERIENCE 01 — CINEMATIC LANDING
+
+The user enters a fullscreen interactive 3D environment.
+
+Centerpiece:
+A beautifully detailed, original **Spatial Intelligence Core**.
+
+It should consist of:
+- Multiple concentric engineered rings.
+- Transparent internal structures.
+- A dense illuminated inner lattice.
+- Interlocking metallic elements.
+- Animated microcomponents.
+- Rotating signal structures.
+- Layered reflective glass.
+- Carefully choreographed lighting.
+- Signal energy traveling through the system.
+
+The core must respond to the cursor:
+- Small pointer movements influence orientation.
+- Nearby structures react with spring motion.
+- The illumination changes subtly.
+- Data particles respond to proximity.
+- Click produces a meaningful transformation.
+
+Text overlay:
+
+MUSE SIMLAB
+
+Design Intelligence.
+Simulate Reality.
+
+"Explore the systems behind intelligence, computation and robotics."
+
+Primary action:
+**ENTER SIMLAB**
+
+Secondary:
+**EXPLORE THE EXPERIENCE**
+
+The CTA should trigger a true spatial transition, not merely scroll to a card.
+
+### Cinematic entrance
+
+When ENTER SIMLAB is clicked:
+
+1. Ambient lighting decreases.
+2. The core begins spinning faster.
+3. Outer mechanical rings separate.
+4. The camera advances.
+5. The core unfolds into a large spatial gateway.
+6. A flowing tunnel of computational signals appears.
+7. The camera passes through.
+8. The SimLab environment is revealed.
+
+Build this as a continuous sequenced animation with a synchronized scene state.
+
+## EXPERIENCE 02 — SIMLAB PROMPT GATEWAY
+
+The user arrives in a vast, dark 3D virtual laboratory.
+
+At the center:
+A floating holographic prompt interface, framed by precise dimensional geometry.
+
+Title:
+
+**WHAT WOULD YOU LIKE TO SIMULATE?**
+
+Input placeholder:
+
+"Describe a system, architecture, or machine you want to explore..."
+
+Three example prompts must be clearly accessible:
+
+1. "Show the entire working of Meta Muse Wonder in an interactive 3D simulation."
+2. "Construct and simulate the Meta MTIA 400 AI accelerator from chip architecture to inference execution."
+3. "Build and simulate Meta Robot Max, explaining its mechanical structure, perception, motion, and manipulation."
+
+Do not present these as a generic card grid.
+
+Instead, represent the choices as three spatially differentiated gateways or interactive objects:
+
+- Muse Wonder: a large luminous intelligence network.
+- MTIA 400: a metallic accelerator die with illuminated computation channels.
+- Robot Max: a high-detail articulated robotic silhouette inside an engineered assembly chamber.
+
+These gateway objects are interactive.
+
+Hover:
+- Subtle camera shift.
+- Lighting changes.
+- Animated response from the object.
+- A title appears in spatial UI.
+
+Click:
+- Focused camera movement.
+- A description appears.
+- User can launch the simulation.
+
+Natural-language prompts must activate the appropriate experience through a validated intent-routing system.
+
+Recognize variations and synonyms, not just exact hardcoded phrases.
+
+Unsupported requests must produce an honest, polished response rather than pretending that an arbitrary simulation exists.
+
+---
+
+# PART 3 — SIMULATION ENGINE ARCHITECTURE
+
+All three labs use a shared engine.
+
+Pipeline:
+
+User prompt
+→ intent detection
+→ validated simulation selection
+→ optional Muse Spark Open structured explanation/scene plan
+→ safe scene specification
+→ authored 3D geometry and assets
+→ cinematic construction timeline
+→ actual educational simulation logic
+→ interactive inspection
+→ guided explanation
+→ replay and conclusion.
+
+Do not use the language model to execute arbitrary code or inject raw generated JSX, HTML, scripts, shaders, or URLs.
+
+The model can select only predefined scene entities and actions allowed by a schema.
+
+## Shared scene capabilities
+
+Implement:
+- Cinematic tour.
+- Free exploration.
+- Pause and resume.
+- Restart simulation.
+- Step forward and backward.
+- Timeline scrubbing.
+- Adjustable simulation speed.
+- Orbit camera.
+- Zoom.
+- Pan where appropriate.
+- Object selection.
+- Component isolation.
+- X-ray view.
+- Exploded view.
+- Reset camera.
+- Focus component.
+- Show and hide labels.
+- Show dataflow.
+- Show dependency relationships.
+- Open explanation panel.
+- Return to main gateway.
+
+These controls must function.
+
+Do not include decorative buttons that do nothing.
+
+## Interaction states
+
+Implement an explicit state machine:
+
+LOADING
+INTRO
+GATEWAY
+SCENE_PREPARING
+CONSTRUCTION
+GUIDED_SIMULATION
+FREE_EXPLORATION
+INSPECTION
+RESULTS
+EXIT_TRANSITION
+
+The simulation must correctly manage state transitions, camera ownership, active animations and resource cleanup.
+
+## Shared visual timeline
+
+Every lab follows the same broad cinematic progression:
+
+1. Arrival.
+2. Object introduction.
+3. Mechanical or computational construction.
+4. Architecture overview.
+5. Detailed component inspection.
+6. Internal data or signal flow.
+7. Real interactive computational demonstration.
+8. Operational scenario.
+9. Results visualization.
+10. Limitations and interpretation.
+11. Complete system overview.
+12. Final explanation and replay.
+
+Each stage should have real authored 3D animation, not simply a text update.
+
+---
+
+# PART 4 — LAB ONE: META MUSE WONDER
+
+## Objective
+
+When the user asks:
+
+"Show the entire working of Muse Wonder in 3D."
+
+Construct a sophisticated interactive representation of Meta Muse Wonder as an agentic intelligence system.
+
+### Scientific honesty
+
+Muse Wonder is a frontier model developed by Meta and publicly described through Active Memory, Active Focus, complex agentic execution, tool use, and coding capabilities.
+
+Its complete proprietary neural architecture, learned weights, private activation patterns, and internal runtime are not publicly available for faithful reproduction.
+
+Therefore divide this lab into two clearly labeled sections:
+
+**A. Publicly documented Muse Wonder capability architecture — conceptual and educational visualization.**
+
+**B. Illustrative neural computation using a small independently implemented transformer demonstration.**
+
+Never label a toy transformer calculation as a true internal activation of Muse Wonder.
+
+Official references:
+- https://research.meta.ai/blog/muse-wonder
+- https://about.fb.com/news/2026/10/introducing-muse-wonder-models/
+- https://dev.meta.ai/docs/models
+
+## SCENE MW-01 — INTELLIGENCE EMERGENCE
+
+Begin in darkness.
+
+A small luminous object activates.
+
+Hundreds of structured information nodes emerge.
+
+They assemble into concentric computational layers.
+
+The camera flies around the structure.
+
+Individual modules reveal their identities.
+
+The overall system becomes a massive three-dimensional agentic architecture.
+
+Use elegant construction sequences and carefully optimized GPU particles.
+
+## SCENE MW-02 — INFORMATION INPUT
+
+Represent user instructions as dimensional token or data objects.
+
+Animate:
+- User request entering.
+- Parsing and task interpretation.
+- Goal identification.
+- Context selection.
+- Relevant information routing.
+- Creation of a high-level task plan.
+
+All user-visible explanations must distinguish a conceptual agent workflow from unpublished Muse internals.
+
+## SCENE MW-03 — ILLUSTRATIVE TRANSFORMER CORE
+
+Create a technically accurate, independent toy transformer module that can demonstrate:
+
+- Tokenization.
+- Embeddings.
+- Positional information.
+- Query, Key, and Value projections.
+- Scaled dot-product attention.
+- Softmax.
+- Multiple attention heads, if supported by the toy implementation.
+- Residual connections.
+- Layer normalization.
+- Feed-forward transformations.
+- Output logits.
+- Probability distribution.
+- Next-token selection.
+- Autoregressive generation.
+
+Use an actual small numerical computation in TypeScript rather than random numbers.
+
+For attention, use:
+
+Attention(Q,K,V) = softmax(QKᵀ / √dₖ)V.
+
+Visualize the actual calculated matrices and attention weights.
+
+The values in tooltips, tables and 3D signals must derive from the same computation.
+
+Do not imply this is the exact Muse Wonder architecture.
+
+### Visual design
+
+The transformer must look like an enormous precision-engineered computational machine:
+
+- Floating translucent projection panels.
+- Dense structured processing elements.
+- Layered metallic frames.
+- Signal paths.
+- Color-coded attention heads.
+- Golden information arcs.
+- Blue data lines.
+- Intricate, spatially separated network layers.
+- Camera fly-through of internal computation.
+- Exploded views showing mathematical relationships.
+
+No primitive-looking diagram.
+
+## SCENE MW-04 — ACTIVE MEMORY
+
+Create an interactive educational representation of Active Memory.
+
+Introduce a demonstration task involving earlier conversations or retained context.
+
+Use a clear local synthetic dataset.
+
+Demonstrate:
+- A user goal.
+- Initial context.
+- New facts added to memory.
+- Relevant context retrieval.
+- Irrelevant context filtering.
+- Context selected for the next step.
+- A subsequent task that benefits from retrieved information.
+
+Animate memory structures:
+- Information capsules.
+- A navigable memory lattice.
+- Search pulses.
+- Retrieval paths.
+- Context selection.
+- Memory updates.
+
+Allow the user to add synthetic facts and inspect what is stored.
+
+Implement actual browser-local demo memory logic.
+
+Do not claim to reproduce Meta's proprietary Active Memory implementation.
+
+## SCENE MW-05 — ACTIVE FOCUS
+
+Visualize long-horizon task execution.
+
+Demonstrate:
+- Goal definition.
+- Task decomposition.
+- Planning.
+- Action selection.
+- Tool execution.
+- Result observation.
+- Failure detection.
+- Revised planning.
+- Recovery.
+- Completion.
+- User approval before a consequential action.
+
+Use a working deterministic task state machine.
+
+Include a controlled example where a tool action fails and the demonstration recovers.
+
+Visually:
+- Each task becomes a floating computational module.
+- Dependencies appear as luminous connections.
+- Success flows through the network.
+- Failure causes a local change in state.
+- A new route forms.
+- Execution resumes.
+
+Do not claim the demonstration shows the actual hidden reasoning of Muse Wonder.
+
+## SCENE MW-06 — AGENTIC WORKFLOW
+
+Build an interactive example:
+
+"Plan and implement a small software feature."
+
+Conceptually demonstrate:
+- Requirement interpretation.
+- Work planning.
+- Tool selection.
+- Code modification planning.
+- Validation.
+- Error identification.
+- Revision.
+- Completion.
+
+No uncontrolled code execution.
+
+Use predetermined safe demonstration actions and real local validation where appropriate.
+
+## SCENE MW-07 — LIVE META MODEL EXPLANATION
+
+Connect this lab's explanatory narration to **Muse Spark Open through Nebius**.
+
+Display a truthful status indicator:
+
+"Explanation generated using Meta Muse Spark Open via Nebius."
+
+Users may ask:
+- Why does attention work?
+- How is active memory useful?
+- What is active focus?
+- How does an agent recover from failure?
+- What are the limitations of this simulation?
+
+Use server-generated explanation content while keeping the actual simulated state controlled by the app.
+
+Do not claim the Nebius model is Muse Wonder.
+
+## SCENE MW-08 — COMPLETE EXPLANATION
+
+Conclude with an interactive summary:
+
+1. What Muse Wonder is.
+2. What public information confirms.
+3. What Active Memory means.
+4. What Active Focus means.
+5. How tool-based agentic systems operate.
+6. How the independent transformer demonstration works.
+7. What was genuinely computed.
+8. What remains conceptual or unknown.
+9. Real-world use cases.
+10. A guided replay of the whole system.
+
+---
+
+# PART 5 — LAB TWO: META MTIA 400
+
+## Objective
+
+When the user asks:
+
+"Create the Meta MTIA 400 chip completely in 3D."
+
+Build a premium engineering visualization and interactive educational simulation of the publicly documented MTIA 400 accelerator.
+
+Official reference:
+
+https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/
+
+## Technical requirements
+
+Ground the architecture in published information.
+
+Publicly documented characteristics include:
+
+- Part of the Meta Training and Inference Accelerator family.
+- Supports GenAI and ranking/recommendation workloads.
+- Two compute chiplets in MTIA 400.
+- Increased computation density.
+- Low-precision MX8 and MX4 capabilities.
+- 400% higher FP8 FLOPS compared with MTIA 300.
+- 51% higher HBM bandwidth compared with MTIA 300.
+- Up to 72 MTIA 400 devices in the publicly described rack-scale domain.
+- Switched-backplane connectivity at rack scale.
+- A PyTorch-oriented software ecosystem.
+
+Do not invent an exact unpublished floorplan, chiplet dimensions, memory placement, process characteristics, thermal profile or benchmark result.
+
+Where details are unknown, use clearly labeled conceptual reconstruction.
+
+## SCENE MTIA-01 — ACCELERATOR ARRIVAL
+
+A tiny metallic object appears in darkness.
+
+The camera zooms toward it.
+
+The package rotates under carefully directed lighting.
+
+A high-fidelity MTIA 400-inspired module comes into focus.
+
+The object must look like a realistic engineered product:
+- Substrate layers.
+- Package structure.
+- Metallic contact details.
+- Die surfaces.
+- Microfabrication-inspired textures.
+- Mechanical edge details.
+- High-quality reflective and matte surfaces.
+
+## SCENE MTIA-02 — EXPLODED ASSEMBLY
+
+The package separates into clearly identifiable layers.
+
+Animate:
+- Package foundation.
+- Substrate.
+- Compute chiplets.
+- Memory structures.
+- Interconnect layers.
+- Heat-spreading and cooling representation.
+- Supporting components.
+
+Each component arrives from a controlled position.
+
+Use smooth mechanical trajectories.
+
+Allow exploded-view control and layer isolation.
+
+**The exact arrangement must be labeled as an educational reconstruction where Meta has not published it.**
+
+## SCENE MTIA-03 — DUAL COMPUTE CHIPLET SYSTEM
+
+Visually emphasize the documented two-compute-chiplet design.
+
+Open the package.
+
+Camera approaches the two chiplets.
+
+Their internal visualization reveals:
+- Conceptual processing arrays.
+- Matrix computation units.
+- Local data movement.
+- Data routing.
+- Synchronization.
+
+Use a representative processing-element model, informed by Meta's published MTIA architecture, without assuming every MTIA 300 detail is unchanged in MTIA 400.
+
+## SCENE MTIA-04 — MEMORY SYSTEM
+
+Introduce HBM conceptually.
+
+Show:
+- Memory hierarchy.
+- Tensor movement.
+- Memory reads.
+- Memory writes.
+- Data staging.
+- Tiling.
+- Bandwidth bottlenecks.
+
+Create a visually sophisticated dataflow simulation.
+
+Memory signals should be animated as coherent moving structures with actual source/destination meaning.
+
+## SCENE MTIA-05 — MATRIX MULTIPLICATION
+
+Implement real matrix multiplication using deterministic numerical code, optionally accelerated with a Web Worker.
+
+Example:
+
+C = A × B.
+
+Give users controls for:
+- Matrix size.
+- Input values or seeded data.
+- Tile dimensions.
+- Execution step.
+- Visual speed.
+
+Animate:
+- Input tiles entering processing regions.
+- Multiplication.
+- Accumulation.
+- Output generation.
+- Results returning to memory.
+
+Display computed matrix results.
+
+Verify against a reference implementation with tests.
+
+The measured execution time belongs to the browser demonstration, NOT to MTIA 400 hardware.
+
+## SCENE MTIA-06 — PRECISION AND QUANTIZATION
+
+Explain:
+- FP8.
+- MX8.
+- MX4.
+- BF16 conceptually.
+- Precision tradeoffs.
+- Memory use.
+- Numerical error.
+
+Where practical, implement a clearly defined educational quantization approximation.
+
+Display the formula, approximation method and measured reconstruction error.
+
+Do not falsely claim the browser uses Meta's exact hardware encoding.
+
+## SCENE MTIA-07 — THERMAL AND ENERGY CONCEPTS
+
+Create a conceptual visualization showing compute activity and hypothetical thermal regions.
+
+Use coherent gradients and animated heat propagation.
+
+Display:
+- Relative computation activity.
+- Memory traffic.
+- Conceptual heat intensity.
+- Workload-dependent behavior.
+
+Do not label invented heat maps as real MTIA thermal measurements.
+
+Any energy model must state its assumptions.
+
+## SCENE MTIA-08 — SOFTWARE TO SILICON
+
+Create a cinematic view of the software execution pipeline:
+
+PyTorch model
+→ graph representation
+→ compilation and optimization
+→ kernel execution
+→ device computation
+→ results.
+
+Use officially documented architectural concepts where possible.
+
+Differentiate educational modeling from actual execution on MTIA hardware.
+
+## SCENE MTIA-09 — RACK-SCALE SYSTEM
+
+Zoom out from the package.
+
+Reveal an engineered rack environment.
+
+Show how 72 MTIA 400 devices participate in the published scale-up configuration.
+
+Use GPU instancing for repeated rack components.
+
+Visually demonstrate conceptual device-to-device communication.
+
+Do not fake real network latency or performance metrics.
+
+## SCENE MTIA-10 — COMPLETE EXPLANATION
+
+The conclusion must cover:
+
+1. Why Meta developed MTIA.
+2. MTIA 400's place in the chip roadmap.
+3. Major structural components.
+4. Dual compute chiplets.
+5. HBM and memory movement.
+6. Matrix computation.
+7. Low-precision arithmetic.
+8. Software execution.
+9. Rack-scale topology.
+10. Performance comparisons backed by public sources.
+11. Actual browser computation results.
+12. What cannot be faithfully simulated without proprietary information.
+
+---
+
+# PART 6 — LAB THREE: META ROBOT MAX
+
+## Objective
+
+When the user requests:
+
+"Build Meta Robot Max completely and show its development and operation in 3D."
+
+Create an exceptionally detailed humanoid robotics laboratory.
+
+### Reality and attribution
+
+As of the current research context, Max is a reportedly developed Meta/Fourier humanoid research prototype. Public reporting describes it, but the full mechanical CAD files, actuator parameters, kinematic specification, sensor calibration and control software are not publicly available.
+
+References:
+- https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push/
+- https://www.reuters.com/world/china/meta-builds-humanoid-robot-with-chinese-startup-fourier-information-says-2026-10-31/
+
+Make the visual a **conceptual educational reconstruction inspired by the reported Max prototype**.
+
+Do not imply it is official Meta CAD, official firmware, or a genuine digital twin.
+
+Reported characteristics that can inform the reconstruction include:
+- Humanoid form.
+- Approximately 48 kg reported mass.
+- Approximately 1.5 m reported height.
+- A face display supporting expressions.
+- Chest speakers.
+- Five-fingered hands.
+- Perception and social interaction research.
+- Manipulation-oriented operation.
+
+Treat non-official details as reported, not independently verified.
+
+## SCENE MAX-01 — ROBOTICS FACILITY
+
+Open a large futuristic robotics assembly facility.
+
+Environmental elements:
+- Dark engineered floor.
+- Precision lighting.
+- Mechanical assembly platforms.
+- Robotic tool structures.
+- Floating inspection displays.
+- Technical spatial markings.
+- Soft atmospheric depth.
+
+The camera flies through the facility.
+
+A central assembly platform activates.
+
+## SCENE MAX-02 — SKELETAL CONSTRUCTION
+
+Build the robot from the inside out.
+
+Animate:
+- Structural chassis.
+- Torso frame.
+- Hip assemblies.
+- Thigh and lower-leg structures.
+- Feet.
+- Shoulder mechanisms.
+- Upper and lower arms.
+- Wrist assemblies.
+- Hand structure.
+- Head assembly.
+
+Each element should be individually modeled, movable, selectable and inspectable.
+
+Use real articulated hierarchy, not unrelated decorative meshes.
+
+## SCENE MAX-03 — JOINTS AND ACTUATORS
+
+Create a physically meaningful educational skeleton.
+
+Implement configurable joint constraints.
+
+Show:
+- Joint axes.
+- Rotation ranges.
+- Parent-child hierarchy.
+- Link transforms.
+- Actuation concepts.
+- Kinematic chain dependencies.
+
+Include interactive controls for representative joints.
+
+Use radians/degrees correctly.
+
+Develop a coherent coordinate system and documented scale.
+
+Do not misrepresent assumed joint limits as official Max specifications.
+
+## SCENE MAX-04 — HAND MANIPULATION
+
+Build detailed articulated hands.
+
+Prefer five-fingered geometry with meaningful joint relationships.
+
+Demonstrate:
+- Finger flexion.
+- Hand opening/closing.
+- Grasp targeting.
+- Object approach.
+- Contact checks.
+- Object attachment on valid grasp.
+- Object release.
+
+Include pick-and-place tasks.
+
+Do not fake successful object manipulation by simply teleporting props without following an explicit state machine and checking constraints.
+
+## SCENE MAX-05 — SENSOR AND PERCEPTION SYSTEM
+
+Create a conceptual perception pipeline.
+
+The robot must observe a real simulated environment containing objects and obstacles.
+
+Demonstrate:
+- Camera field-of-view.
+- Object positions.
+- Environmental perception.
+- Geometric obstacle detection.
+- Perception updates.
+- Internal world representation.
+
+Sensor frustums and point-cloud-style effects can illustrate principles.
+
+Do not assign unverified actual sensors to Max.
+
+If adding voice or gesture demonstrations, clearly label simulated browser input versus real hardware capabilities.
+
+## SCENE MAX-06 — WORLD MAPPING
+
+Create a navigable environment with:
+- Floor geometry.
+- Obstacles.
+- Traversable areas.
+- Restricted areas.
+- Target locations.
+- Movable objects.
+
+Derive a grid or navigation representation from scene obstacles.
+
+Visualize:
+- Occupied cells.
+- Free space.
+- Robot location.
+- Goal location.
+- Planned route.
+
+The world representation and physical environment must stay synchronized.
+
+## SCENE MAX-07 — AUTONOMOUS PATH PLANNING
+
+Implement a real A* pathfinding algorithm.
+
+Do not animate arbitrary paths.
+
+Visualize:
+- Search frontier.
+- Visited nodes.
+- Candidate paths.
+- Final optimal or valid path under the defined cost function.
+- Route execution.
+
+Allow the user to place new obstacles.
+
+When an obstacle blocks the current route:
+1. Detect the conflict.
+2. Stop or safely halt the navigation simulation.
+3. Recompute the route.
+4. Display the changed planning result.
+5. Continue toward the goal.
+
+Include no-path cases.
+
+The algorithm must be unit-tested.
+
+## SCENE MAX-08 — MOTION AND KINEMATICS
+
+Implement meaningful motion.
+
+Support:
+- Turning.
+- Walking-inspired animation.
+- Reaching.
+- Grasping.
+- Placing.
+- Returning to a resting pose.
+
+Use kinematic calculations for the implemented articulated rig.
+
+Implement CCD or FABRIK inverse kinematics for at least one manipulation chain.
+
+If full dynamically stable biped locomotion is not implemented, label locomotion as kinematic rather than physically validated.
+
+Avoid pretending to simulate realistic whole-body dynamics without such a solver.
+
+## SCENE MAX-09 — AUTONOMOUS TASK
+
+Demonstration task:
+
+"Locate a small object, navigate around obstacles, pick it up and place it on a designated table."
+
+Required state sequence:
+
+IDLE
+→ PERCEIVE
+→ LOCATE_TARGET
+→ PLAN_PATH
+→ NAVIGATE
+→ REACH
+→ GRASP
+→ VERIFY_GRASP
+→ PLAN_DELIVERY
+→ NAVIGATE_TO_DESTINATION
+→ PLACE
+→ VERIFY_PLACEMENT
+→ COMPLETE.
+
+Add failure cases:
+- Blocked navigation.
+- Unreachable target.
+- Invalid grasp distance.
+- Object moved.
+- Missing target.
+- Collision.
+
+The robot must react appropriately to each case.
+
+## SCENE MAX-10 — LIVE METRICS
+
+Display metrics derived from the actual simulation:
+- Planned path length.
+- Travelled distance.
+- Replanning events.
+- Collision count.
+- Task completion.
+- Elapsed simulated time.
+- Joint states.
+- Object state.
+- Goal reached or failed.
+
+Never invent success percentages.
+
+## SCENE MAX-11 — ROBOT ARCHITECTURE VIEW
+
+Show an exploded-view hierarchy of the robot:
+- Mechanical structure.
+- Actuation layer.
+- Sensor concepts.
+- Perception pipeline.
+- Planning.
+- Control.
+- Interaction with environment.
+
+Each selected system should be highlighted in the actual 3D model.
+
+## SCENE MAX-12 — COMPLETE EXPLANATION
+
+Guide the user through:
+
+1. What has been reported about Max.
+2. Research prototype context.
+3. The educational reconstruction.
+4. Structural assembly.
+5. Joint systems.
+6. Perception concepts.
+7. Environmental mapping.
+8. Motion planning.
+9. Kinematics.
+10. Manipulation.
+11. Task execution.
+12. Replanning.
+13. Results and limitations.
+14. Potential future research directions.
+
+---
+
+# PART 7 — EXPLANATION ENGINE
+
+Every prompt must lead to more than a visual experience.
+
+The website is also a technical learning platform.
+
+For each scene, provide three levels:
+
+### Beginner
+Clear everyday-language explanation.
+
+### Engineering
+Components, architecture, interfaces and process flow.
+
+### Research
+Mathematical or algorithmic details, assumptions, limitations and deeper implications.
+
+## Explanation presentation
+
+The explanation UI must feel integrated with the 3D world.
+
+Use:
+- Floating annotations.
+- Contextual side panels.
+- Spatial labels.
+- Guided camera focus.
+- Animated component outlines.
+- Synchronized subtitles.
+- Step-by-step technical diagrams.
+- Mathematical overlays.
+- Selectable glossary terms.
+
+Do not obscure the central 3D object.
+
+## Explanation requirements
+
+For every major simulation step, show:
+- What is happening.
+- Why it happens.
+- Which components are involved.
+- What the animation represents.
+- What calculation or state change occurs.
+- What result is produced.
+- Which details are documented versus illustrative.
+
+Provide a final structured report.
+
+The report should be readable even if the user cannot run the animation.
+
+---
+
+# PART 8 — META MUSE SPARK OPEN INTEGRATION
+
+Use the actual model:
+
+**meta-models/muse-spark-open**
+
+Provider:
+**Nebius Token Factory**
+
+Use the provider's OpenAI-compatible API.
+
+Official reference:
+https://dev.meta.ai/docs/muse-spark-open/deploy
+
+Default documented endpoint:
+https://api.tokenfactory.us-north1.nebius.com/v1/
+
+Read the current documentation and verify the selected project's endpoint before testing.
+
+## Environment variables
+
+Create `.env.example`:
+
+NEBIUS_API_KEY=
+NEBIUS_BASE_URL=https://api.tokenfactory.us-north1.nebius.com/v1/
+NEBIUS_MODEL=meta-models/muse-spark-open
+AI_REQUEST_MAX_OUTPUT_TOKENS=1200
+AI_DEMO_BUDGET_USD=5
+
+Do not hardcode secrets.
+
+Never expose the Nebius key through Vite `VITE_*` variables, client-side JavaScript, browser network calls or Git history.
+
+## Backend
+
+Implement a secure server-side adapter.
+
+Use an appropriate Node server or a FastAPI backend.
+
+Recommended endpoints:
+
+POST /api/scene/interpret
+
+POST /api/explain
+
+POST /api/ask
+
+GET /api/health
+
+## Model responsibilities
+
+Use Muse Spark Open for:
+- Understanding prompt variations.
+- Choosing supported labs.
+- Generating clear technical explanations.
+- Preparing narration for an authorized scene.
+- Producing constrained educational scene metadata.
+- Answering questions about the active simulation.
+- Creating concise final explanations.
+
+Never rely on the model for:
+- Arbitrary 3D mesh generation.
+- Running uncontrolled source code.
+- Returning executable scripts.
+- Faking simulation values.
+- Defining unsupported hardware specifications.
+- Inventing proprietary model internals.
+
+## Structured output contract
+
+Create a TypeScript/Zod schema similar to:
+
+{
+  lab: "muse-wonder" | "mtia-400" | "robot-max",
+  title: string,
+  sceneId: string,
+  explanationLevel: "beginner" | "engineering" | "research",
+  narration: string,
+  focusTargets: string[],
+  animationActions: string[],
+  caveats: string[]
+}
+
+`sceneId`, `focusTargets`, and `animationActions` must be restricted to known supported identifiers.
+
+Validate every generated response.
+
+If a response is malformed:
+- Retry once if justified.
+- Otherwise use a deterministic local explanation.
+- Preserve the simulation.
+- Show an accurate provider status.
+
+## Cost and credits
+
+The account has approximately $25 in available Nebius credits.
+
+Respect this budget.
+
+Implement:
+- Per-request token caps.
+- Bounded chat history.
+- Provider timeout.
+- Retry limits.
+- Cost tracking where reliable token usage is returned.
+- Request caching for repeated explanations.
+- User-visible model status.
+- Optional mock-free offline mode using handcrafted explanations.
+- An application-side spending guard with configurable budget.
+
+Default to a small development spending allowance, such as $5, rather than attempting to use all $25.
+
+Pricing must be configurable and verified from the provider. Do not pretend the app's estimated spend is an authoritative billing balance.
+
+Do not require a live API response to render the core simulations.
+
+Build the simulation architecture first, then validate the Nebius connection using a small test request.
+
+Never commit the real API key.
+
+---
+
+# PART 9 — COMPLETE TECHNICAL STACK
+
+Use a modern, maintainable production architecture.
+
+## Frontend
+
+- React
+- TypeScript
+- Vite
+- Three.js
+- React Three Fiber
+- Drei
+- GSAP
+- Zustand
+- Tailwind CSS
+- Lucide icons
+- Zod
+- Custom GLSL shaders where they materially improve the result
+- Carefully selected postprocessing effects
+
+## 3D asset pipeline
+
+- Procedural modeling where appropriate.
+- Blender-created GLB/GLTF assets when available.
+- Draco or Meshopt compression where supported.
+- Optimized textures.
+- Correct PBR material setup.
+- Reusable geometries and materials.
+- Instanced geometry for repeated elements.
+- Physically sensible object scaling.
+
+Do not depend on external paid asset libraries.
+
+Do not use copyrighted proprietary CAD files without permission.
+
+## Simulation logic
+
+Separate numerical computation from rendering.
+
+Use:
+- Deterministic computational utilities.
+- Web Workers for expensive operations.
+- Typed simulation states.
+- Reproducible seeds.
+- Independent test cases.
+- Coherent units.
+
+For robotics, use a physics or collision library only when it improves the actual task. Do not add a heavyweight dependency merely to claim physical accuracy.
+
+## Backend
+
+Use a small secure, deployable backend for Nebius.
+
+Provide:
+- Input validation.
+- API key protection.
+- Request timeouts.
+- Rate limits or sensible protections.
+- Structured error handling.
+- API status reporting.
+- No secret leakage in logs.
+
+---
+
+# PART 10 — HIGH-FIDELITY ANIMATION ENGINE
+
+Create a dedicated cinematic animation system.
+
+Do not scatter uncoordinated animations throughout components.
+
+## Animation direction
+
+Support:
+- Camera rails and authored paths.
+- Scene transitions.
+- Spring-driven interactions.
+- Staggered mechanical assembly.
+- Exploded component motion.
+- Controlled object morphs where feasible.
+- Dataflow visualization.
+- Spatial object highlighting.
+- Animated labels.
+- Lighting transitions.
+- Smooth hover responses.
+- Timeline scrubbing.
+- Replay.
+- Optional sound effects.
+
+## Mandatory transition examples
+
+### Landing → Gateway
+
+The intelligence core disassembles, reveals a spatial tunnel and reforms as the gateway environment.
+
+### Gateway → Muse Wonder
+
+The selected intelligence gateway expands into an enormous layered agent architecture.
+
+### Gateway → MTIA 400
+
+The camera approaches a luminous die, descends into its detailed package and reveals its chiplet structure.
+
+### Gateway → Robot Max
+
+The camera flies through a robotics chamber as mechanical components assemble into the humanoid.
+
+### Lab → Results
+
+Dataflow slows, relevant components move into overview positions, and the final explanation becomes visible.
+
+### Results → Gateway
+
+Objects dissolve or retract through a coherent transition back to the original environment.
+
+Avoid hard scene cuts when a continuous transition is technically and performantly feasible.
+
+## Animation implementation rules
+
+Use:
+- GSAP timelines for authored sequences.
+- R3F frame updates for time-dependent 3D behavior.
+- Mathematically stable damping.
+- GPU-based effects where appropriate.
+- Proper cleanup of subscriptions, frame loops, resources and animation handles.
+
+Do not create unnecessary React state updates every animation frame.
+
+Maintain a single source of truth for active simulation time.
+
+---
+
+# PART 11 — CUSTOM CODEX SKILLS
+
+Before building the main site, inspect the 15 skills already installed in `.agents/skills/`. DO NOT reinstall them. Verify real paths and read only the skills relevant to the current phase.
+
+Reuse relevant trusted skills if already available.
+
+Do not blindly install third-party skills from arbitrary repositories.
+
+If any project-specific standards are not sufficiently covered by the 15 installed skills, create the following **project-specific Codex skills** under `.agents/skills/` only when needed. Do not re-install or overwrite existing skills.
+
+Each skill must have a valid `SKILL.md` with YAML frontmatter containing `name` and `description`, followed by specific repeatable instructions.
+
+### Skill 1 — cinematic-art-direction
+
+Triggered when building or reviewing the site's visual composition.
+
+Rules:
+- Match the approved MUSE SIMLAB art direction.
+- Review typography, silhouette, depth and materials.
+- Prevent generic template design.
+- Require an intentional entrance, interaction and exit for each scene.
+- Check every composition at desktop and mobile sizes.
+- Evaluate screenshots against the visual-quality brief.
+
+### Skill 2 — webgl-threejs-engineering
+
+Triggered when implementing 3D scenes.
+
+Rules:
+- Use idiomatic Three.js/R3F patterns.
+- Reuse geometry and materials.
+- Avoid avoidable allocations per frame.
+- Use instancing where appropriate.
+- Dispose resources correctly.
+- Test context-loss recovery and WebGL failures.
+- Keep simulations separated from rendering.
+
+### Skill 3 — glsl-shaders-and-vfx
+
+Triggered when creating shaders, particles and effects.
+
+Rules:
+- Build coherent, purpose-driven visuals.
+- Use precision and coordinate systems consistently.
+- Avoid unnecessary fullscreen passes.
+- Test shader compilation.
+- Prevent unstable or excessive bloom.
+- Profile GPU cost.
+- Provide a fallback for unsupported hardware.
+
+### Skill 4 — cinematic-motion-director
+
+Triggered when building animations and transitions.
+
+Rules:
+- Author sequences with consistent timing.
+- Avoid conflicting camera controls.
+- Support interruption and restart.
+- Synchronize explanation with simulation events.
+- Respect reduced-motion preferences.
+- Verify replay and reverse stepping.
+
+### Skill 5 — scientific-accuracy-reviewer
+
+Triggered when adding AI or hardware explanations.
+
+Rules:
+- Verify public claims against sources.
+- Distinguish facts from conceptual models.
+- Verify equations.
+- Verify units.
+- Never invent proprietary specifications.
+- Make every displayed computed number traceable.
+- Document limitations.
+
+### Skill 6 — robotics-simulation-engineer
+
+Triggered when implementing robot mechanics, perception, planning and manipulation.
+
+Rules:
+- Verify coordinate frames.
+- Apply coherent kinematic constraints.
+- Test pathfinding.
+- Test collisions.
+- Test unreachable states.
+- Validate task-state transitions.
+- Distinguish kinematic animation from physical dynamics.
+
+### Skill 7 — ai-integration-security
+
+Triggered when integrating Nebius or other model providers.
+
+Rules:
+- Keep keys server-side.
+- Validate schema outputs.
+- Enforce input/output limits.
+- Track API usage.
+- Provide graceful provider failure.
+- Prevent model-generated executable content.
+- Never mislabel Muse Spark Open as Muse Wonder.
+
+### Skill 8 — react-architecture-quality
+
+Triggered when implementing React/TypeScript features.
+
+Rules:
+- Use coherent component boundaries.
+- Keep reusable components typed.
+- Prefer derived state where appropriate.
+- Avoid unnecessary renders.
+- Support keyboard accessibility.
+- Maintain predictable application state.
+- Keep business logic outside visual components.
+
+### Skill 9 — gpu-performance-audit
+
+Triggered when optimizing any scene.
+
+Rules:
+- Measure frame time and draw calls.
+- Limit expensive postprocessing.
+- Use LOD.
+- Defer heavy assets.
+- Compress assets where appropriate.
+- Reduce GPU memory use.
+- Provide quality presets.
+- Verify real browser performance before reporting it.
+
+### Skill 10 — end-to-end-qa
+
+Triggered before marking any feature complete.
+
+Rules:
+- Run TypeScript checks.
+- Run lint.
+- Run unit tests.
+- Run integration tests.
+- Run production build.
+- Run browser smoke tests.
+- Inspect actual screenshots if tools are available.
+- Test each of the three prompts.
+- Test navigation and return paths.
+- Verify buttons and controls work.
+- Report untested behavior honestly.
+
+Also create a concise root `AGENTS.md` directing Codex to invoke the relevant skill for each task and to run verification after implementation.
+
+Use skills as engineering checklists, not as decorative files.
+
+If a skill is unavailable, implement the equivalent documented engineering procedure directly.
+
+---
+
+# PART 12 — QUALITY AND PERFORMANCE
+
+The application should prioritize smooth real-time interaction.
+
+Performance targets:
+- Aim for 60 FPS on capable desktop hardware.
+- Adapt quality when rendering performance falls.
+- Aim for usable operation on lower-powered hardware.
+- Include reduced-motion and low-quality modes.
+- Avoid massive GPU memory consumption.
+- Minimize shader compilation stutter.
+- Avoid unnecessary network requests.
+
+Do not claim 60 FPS without measurement.
+
+Implement:
+
+- Device pixel ratio management.
+- Dynamic rendering quality where appropriate.
+- Frustum culling.
+- LOD strategies.
+- Texture compression.
+- Instanced repeated objects.
+- Memoized static geometry.
+- Web Worker computation.
+- Lazy loading per lab.
+- Resource cleanup.
+- Loading indicators.
+- Scene-specific render budgets.
+- Optional quality selector: Low / Balanced / High / Ultra.
+
+## Input support
+
+Desktop:
+- Mouse.
+- Keyboard.
+- Wheel.
+- Touchpad.
+
+Mobile/tablet:
+- Touch.
+- Responsive overlays.
+- Appropriate camera controls.
+- Reduced asset complexity.
+
+Accessibility:
+- Semantic controls.
+- Visible focus states.
+- Keyboard navigation.
+- Screen-reader-compatible textual explanations.
+- Reduced-motion support.
+- Avoid blocking the entire experience behind inaccessible 3D interaction.
+
+---
+
+# PART 13 — PROJECT STRUCTURE
+
+Use a clean architecture resembling:
+
+muse-simlab/
+- AGENTS.md
+- .agents/
+  - skills/
+    - cinematic-art-direction/
+    - webgl-threejs-engineering/
+    - glsl-shaders-and-vfx/
+    - cinematic-motion-director/
+    - scientific-accuracy-reviewer/
+    - robotics-simulation-engineer/
+    - ai-integration-security/
+    - react-architecture-quality/
+    - gpu-performance-audit/
+    - end-to-end-qa/
+- src/
+  - app/
+  - components/
+  - design-system/
+  - experience/
+    - Intro/
+    - Gateway/
+    - Transitions/
+    - Results/
+  - engine/
+    - camera/
+    - animation/
+    - shaders/
+    - materials/
+    - particles/
+    - interaction/
+    - scene-state/
+    - performance/
+  - labs/
+    - MuseWonder/
+    - MTIA400/
+    - RobotMax/
+  - simulation/
+    - transformer/
+    - chip/
+    - robotics/
+  - ai/
+  - hooks/
+  - store/
+  - utils/
+  - styles/
+- public/
+  - models/
+  - textures/
+  - audio/
+- server/
+  - routes/
+  - providers/
+  - validation/
+- tests/
+  - unit/
+  - integration/
+  - e2e/
+- README.md
+- .env.example
+
+Adapt the exact structure to the chosen stack, but maintain clear separation of responsibilities.
+
+---
+
+# PART 14 — DEVELOPMENT EXECUTION PLAN
+
+You must actually build the application.
+
+Do not stop after producing a design plan.
+
+Do not respond with only a list of recommended packages.
+
+Do not create just a landing-page prototype and declare success.
+
+Use vertical-slice implementation.
+
+## Phase A — Repository foundation
+
+1. Inspect the existing repository.
+2. Preserve useful existing code.
+3. Read AGENTS.md if present.
+4. Inspect installed skills.
+5. Create missing project-specific skills.
+6. Set up frontend and backend architecture.
+7. Install dependencies.
+8. Configure TypeScript, lint and tests.
+9. Create the design tokens and global visual system.
+
+Verify the project boots.
+
+## Phase B — Cinematic website foundation
+
+Implement:
+- Loading experience.
+- Intelligence core.
+- Cursor-reactive interactions.
+- Spatial gateway.
+- Prompt input.
+- Three scene gateways.
+- Camera transitions.
+- Persistent scene-state management.
+
+Run the application and inspect actual output.
+
+## Phase C — Muse Wonder
+
+Build the complete Muse Wonder experience with:
+- High-quality models and visual compositions.
+- All conceptual agentic scenes.
+- Working numerical toy transformer.
+- Active Memory demonstration.
+- Active Focus demonstration.
+- Guided explanations.
+- Replay and inspection.
+
+Test its computation and interaction.
+
+## Phase D — MTIA 400
+
+Build:
+- Engineered accelerator model.
+- Exploded assembly.
+- Dual compute chiplets.
+- Memory/dataflow visualization.
+- Working matrix multiplication.
+- Precision demonstration.
+- Conceptual thermal visualization.
+- Software-to-hardware pipeline.
+- Rack-scale overview.
+- Final explanation.
+
+Test mathematical results.
+
+## Phase E — Robot Max
+
+Build:
+- Detailed conceptual humanoid.
+- Working articulated rig.
+- Animated assembly.
+- Joint controls.
+- Kinematic demonstrations.
+- Environment sensing concepts.
+- World mapping.
+- A* planner.
+- Obstacle replanning.
+- Pick-and-place demonstration.
+- Task metrics.
+- Full explanation.
+
+Test task execution and failure handling.
+
+## Phase F — AI integration
+
+Integrate Nebius securely.
+
+Test:
+- API health.
+- Real inference.
+- Prompt routing.
+- Structured response validation.
+- Provider errors.
+- Local fallback.
+- Explanation generation.
+- Spending limits.
+
+Keep core simulation functional without the API.
+
+## Phase G — Creative polish
+
+Review:
+- All lighting.
+- Camera timing.
+- Color grading.
+- Materials.
+- Typography.
+- Particle effects.
+- Mouse responsiveness.
+- Scene continuity.
+- Loading transitions.
+- Spatial labels.
+- Sound controls.
+- Mobile layout.
+
+Remove generic-looking elements.
+
+## Phase H — QA and completion
+
+Run all tests.
+
+Fix observed issues.
+
+Inspect production build.
+
+Verify:
+- Every example prompt launches the correct lab.
+- Each lab has a real end-to-end sequence.
+- Main simulated calculations work.
+- Camera and interaction tools work.
+- Every major explanation exists.
+- No false scientific claims are displayed.
+- API keys remain private.
+- The website builds successfully.
+- The experience is usable without model access.
+
+---
+
+# PART 15 — ACCEPTANCE TESTS
+
+Do not mark the project complete unless the following checks pass or a specific limitation is documented.
+
+### Website
+
+- Intro renders.
+- User can skip intro.
+- 3D core responds to pointer.
+- Enter SimLab works.
+- Prompt interface works.
+- Three lab portals work.
+- Scene transitions are coherent.
+- No navigation dead ends.
+
+### Muse Wonder
+
+- All major scenes render.
+- Toy transformer produces deterministic numerical results.
+- Attention calculations pass unit tests.
+- Memory demonstration retrieves relevant demo context.
+- Active Focus recovers from a controlled failure.
+- The interface clearly separates Muse Wonder from Muse Spark Open.
+- Guided explanations finish successfully.
+
+### MTIA 400
+
+- Chip model renders correctly.
+- Exploded view works.
+- Dual-chiplet presentation exists.
+- Matrix multiplication matches expected results.
+- Memory transfer animation responds to simulation state.
+- Numerical assumptions are disclosed.
+- Rack overview displays the documented 72-device configuration.
+
+### Robot Max
+
+- Articulated structure exists.
+- Joint controls work.
+- Robot can enter a navigation scenario.
+- A* produces a valid route.
+- Obstacles affect route planning.
+- Replanning works.
+- Unreachable goals are handled.
+- Manipulation task state progresses meaningfully.
+- Results reflect actual simulation events.
+
+### Quality
+
+- No fatal browser errors.
+- No missing assets.
+- No exposed API keys.
+- No broken controls.
+- No obviously incorrect text.
+- No invented proprietary specifications.
+- No misleading performance claims.
+- No fake API success messages.
+
+---
+
+# PART 16 — DOCUMENTATION AND DELIVERY
+
+Prepare a professional README containing:
+
+- Project overview.
+- Core purpose.
+- Why the product exists.
+- The three labs.
+- Actual technologies used.
+- Meta Muse Spark Open integration.
+- Nebius setup.
+- Local installation.
+- Environment variable configuration.
+- Development commands.
+- Production build commands.
+- Testing commands.
+- Deployment instructions.
+- Known limitations.
+- Source references.
+- Clear attribution that the website is an independent educational prototype.
+
+Also prepare a concise hackathon demo plan that demonstrates:
+
+1. Cinematic landing.
+2. Prompt gateway.
+3. Muse Wonder simulation.
+4. MTIA 400 assembly and computation.
+5. Robot Max planning and manipulation.
+6. Live Meta Muse Spark Open explanation.
+7. Closing results.
+
+Do not claim successful deployment, real model integration, working features, or measured performance unless verified.
+
+---
+
+# PART 17 — EXECUTION RULES
+
+You are not merely a prompt-writing assistant. You are acting as the implementation agent.
+
+Follow these rules:
+
+1. Inspect the existing codebase before modifying it.
+2. Develop directly in the repository.
+3. Create missing required files.
+4. Use the project-specific skills throughout the development process.
+5. Read official API and framework documentation when required.
+6. Prefer real, working features over impressive-sounding descriptions.
+7. Prioritize high-quality authored 3D structures, not quantity of random geometry.
+8. Build each animation as a purposeful part of a cohesive experience.
+9. Maintain real interaction between scene objects, computational state and explanations.
+10. Keep the scientific visualization accurate and appropriately labeled.
+11. Protect API credentials.
+12. Preserve the user's Nebius credit.
+13. Perform actual tests.
+14. Inspect browser output where possible.
+15. Fix problems before declaring completion.
+16. If a tool or source is unavailable, implement the strongest feasible alternative and document the limitation.
+17. Do not repeatedly ask for approval for ordinary reversible implementation decisions.
+18. Do not request unnecessary paid services.
+19. Avoid scope creep outside the three defined labs.
+20. Do not substitute a basic MVP design for the requested immersive experience.
+
+## Final quality evaluation
+
+Continuously judge the work against these questions:
+
+- Does the homepage feel like a premium creative WebGL experience?
+- Is the entire user journey immersive, rather than only the hero section?
+- Does every major object look engineered and visually refined?
+- Is the experience interactive and responsive?
+- Does the camera guide the user's attention intelligently?
+- Are the three labs genuinely different in visual and simulation behavior?
+- Do the animated systems show real relationships?
+- Can users inspect and understand what is happening?
+- Are claims clearly separated into public facts, illustrative models and unknown details?
+- Does every user-facing action work?
+- Are the explanations complete?
+- Is the website stable and performant?
+
+If the answer to any question is no, improve the relevant area.
+
+## START NOW
+
+Begin by:
+
+1. Auditing the repository, all 15 installed Codex skills, and the 3 configured MCP servers.
+2. Creating the project's `AGENTS.md` and missing `.agents/skills/*/SKILL.md` files.
+3. Establishing the application architecture.
+4. Implementing the cinematic 3D landing and prompt gateway.
+5. Building all three functional simulation labs.
+6. Integrating Muse Spark Open through Nebius.
+7. Running build, simulation and browser tests.
+8. Refining visual quality against the Lusion-level creative benchmark.
+9. Preparing the completed application and documentation.
+
+Do not finish with a theoretical proposal.
+
+Build the highest-quality **working** version of MUSE SIMLAB that the available environment and resources support.
+
+**PROJECT: MUSE SIMLAB**
+
+**DESIGN INTELLIGENCE. SIMULATE REALITY.**
+
+---
+
+# PART 18 — DIRECTOR'S STORYBOARD: EXACT IMMERSIVE 3D BEHAVIOR (MANDATORY)
+
+**This section translates "Lusion-level immersive 3D" into observable behavior, so the site does not accidentally become a beautiful but ordinary dashboard. Use original compositions, not a recreation of Lusion assets.**
+
+## 18.1 Continuous spatial continuity
+
+There is **one visual world with choreographed transitions**, not separate card-based web pages. The camera, lighting, particle fields, material language and UX interactions preserve a common identity across the main journey. Three labs may be lazily loaded as technically distinct scenes, but transitions should communicate spatial travel rather than abruptly replacing the entire viewport. Use one carefully managed R3F canvas when practical; a scene graph and centralized camera director should coordinate transitions. It is acceptable to swap optimized scene graphs behind a controlled tunnel/blackout when required for memory or WebGL stability. Never simulate a continuous transition with arbitrary timeouts and then reveal a disconnected screenshot.
+
+User journey:
+
+`REAL ASSET LOAD → DARKNESS / SIGNAL BOOT → INTELLIGENCE CORE AWAKENS → POINTER/SCROLL REACTIVE HERO → ENTER SIMLAB GATE → SPATIAL TRANSIT → THREE HOLOGRAPHIC PORTALS + PROMPT → PROMPT CLASSIFICATION → CHOSEN LAB ASSEMBLES → GUIDED TOUR → INTERACTIVE RESEARCH → FULL EXPLANATION → RESULTS + REPLAY → REVERSE TRANSITION → GATEWAY`.
+
+Every phase must include rendered 3D content or a clear accessible alternative. No conventional navbar/card-grid experience replacing the journey.
+
+## 18.2 Opening sequence detailed cues
+
+- **Cold open:** Black field with a single exact-point cyan emission and subtle circular signal traces; establish a strong sense of size through micro-particles at different depths. No fake progress.
+- **Reveal:** On readiness, the emission splits into dozens of machined concentric surfaces, visible parallax and controlled reflections. Camera dolly reveals a large centerpiece, not an undersized logo. Physics-inspired damping makes outer pieces feel heavy, inner filaments feel light.
+- **Hero interactions:** Mouse enters left/right → outer rings lag and follow with inertia, core stays stable, localized light trails react. Pointer press → meaningful energy pulse and geometric contraction. Scroll toward next step → camera begins a spatial arc; the structure is not simply translated down a web page.
+- **Gateway transformation:** Rings split along physically plausible axis paths; interior nodes form a tunnel; field-of-view and depth cues change to communicate moving into a larger spatial world. Build with a GSAP master timeline and deterministic replay. Text exits smoothly, never flashes or clips.
+- **Gateway arrival:** Three visually different large-scale worlds appear in a huge virtual void: (A) intelligence cathedral, (B) MTIA engineered wafer chamber, (C) robot assembly hangar. User sees *objects*, not photographs or rectangular feature tiles. Prompt is visually integrated and remains accessible in HTML.
+
+Suggested camera compositions (artistic guidance, not literal hardcoded values): wide establishing shot → close detailed hero → orbiting three-quarter view → dramatic tunnel push-in → large gateway revelation. Purposeful cinematic easing; hold long enough to read; optional fast intro for repeat visitors. Avoid aggressive motion, flashing, unwanted audio, and impossible read times. Respect prefers-reduced-motion.
+
+## 18.3 When a user enters a prompt
+
+At prompt submit, do not immediately swap headings. Instead:
+1. Validate the prompt and classify one of 3 supported topics locally first.
+2. If Nebius is available, refine allowed scene planning and prose through schema-validated response, with strict timeout and graceful fallback.
+3. Focus camera on selected gateway; inactive worlds dim/retreat.
+4. Reconfigure the gateway into lab-specific structures with an authored transition, while lazy loading needed models.
+5. Reveal **BUILD / UNDERSTAND / EXPERIMENT / INSPECT / CONCLUDE** modes integrated with spatial scene and readable controls.
+6. Show meaningful progress events tied to actual scene state; no fabricated model or simulation activity.
+
+Prompt classification must also handle "how does Meta's Muse Wonder work", "simulate MTIA400 chip", "build robot Max from start", Tamil/Thanglish common variations where straightforward, and polite disambiguation for unclear requests. Show an honest unsupported-topic message for other machines/models. A third-party LLM must never manufacture an unsupported lab.
+
+## 18.4 Lab-specific cinematic transformations
+
+**Muse Wonder:** Thousands of neatly structured signal points *assemble in hierarchy*, not random nebula noise. Giant transparent projection matrices and gold/cyan connection arcs gradually materialize. Camera threads through token stacks, Q/K/V channels, attention, local memory, agent task graph. When showing actual numerical tensor results, sizes, colors, connections and values respond to the *same simulation state*. Show separately labeled agentic concepts versus independent toy transformer calculations.
+
+**MTIA 400:** Die rotates under a shallow grazing light; camera tracks macro packaging features. The package fractures into an exploded engineered stack. Two documented chiplets become the dominant pair. Memory and interconnect lanes activate. Matrix operands physically enter a mesh of conceptual processing elements and output tiles illuminate according to real browser calculation. Then zoom out through packaging to a 72-device rack visualization. Invented mechanical layers carry the visible **Illustrative reconstruction** label.
+
+**Robot Max:** The camera enters a high-ceiling precision assembly bay; a lit floor platform activates. Feet, legs, torso, arms, five-fingered hands, head, joints and sensor housings arrive in a *mechanically purposeful* assembly order. The camera cuts with intentional match movement to each subsystem. The articulated robot wakes, localizes a target, receives a real computed A* path, traverses it with honest kinematic motion, replans around user-placed obstacles, reaches, grasps using state checks, carries, and places a target. Show collision/route failures rather than animating success through obstacles. Where dimensions, actuators or sensors are unpublished, use configurable illustrative designs clearly labeled.
+
+## 18.5 Scene presentation standard
+
+For every cinematic chapter:
+- Specify the entrance state, camera start/end, animation objects, lighting cue, soundtrack state, data triggers, user controls, textual narrative and exit transition in typed scene metadata.
+- Let users interrupt/cancel motion, pause/restart, jump chapters and return to gateway without leaving stuck camera controllers or orphaned tweens.
+- Pair the dramatic wide shot with a **close-up engineering inspection shot**. The parts must look good from both distances.
+- Use strong negative space and intentional focal hierarchy, not a noisy clutter of lights everywhere.
+- Labels and real data must remain readable in screenshots and at 125–200% zoom.
+- Use world-space labels judiciously; HTML text overlays for crucial content and accessible explanations.
+
+## 18.6 Visual materials, modeling and effects — actual engineering requirements
+
+- Create a reusable physically-based material library for titanium, dark glass, brushed metal, semiconductor die, glowing signal traces, ceramic, matte polymer, chrome accents.
+- Build detailed procedural assemblies from bevelled surfaces, greebles, repeated microstructures, cable routing and physical layers. Vary scale intentionally; avoid overusing simple toruses and cubes as finished content.
+- Use authored GLB meshes when necessary. If Blender is unavailable, implement sophisticated procedural mesh alternatives and document the difference. Do not silently use purchased/proprietary models.
+- A custom vertex/fragment shader should contribute something meaningful (e.g., information paths, particles, lens-like emphasis), not exist just to check a technology box. Use WebGL2-compatible fallbacks; do not assume WebGPU.
+- Audio, if implemented, starts only after user interaction; include mute control and keep core experience complete without sound.
+- Use color-coded semantic signals consistently: cyan = information flow; gold = attention/decision; violet = orchestration; white = neutral geometry; warm amber = warning/error; muted gray = inactive.
+- Use accurate technical terms; no invented gibberish glyphs or pseudo-technical labels.
+
+## 18.7 Objective visual QA
+
+Compare screenshot captures at **1440 × 900, 1920 × 1080, 768 × 1024, 390 × 844** (or nearest available). Inspect:
+- first useful visual frame, mid-landing, entering transition, gateway, key assembly, macro inspection, guided dataflow and final report;
+- light balance and material depth;
+- whether the main hero has clear silhouette and cinematic scale;
+- whether text is readable and never obstructs the simulation;
+- whether portal objects are differentiated and not generic floating tiles;
+- whether 3D transitions actually render and camera ownership is correct;
+- reduced-motion and keyboard-accessible alternative views;
+- shader compile warnings, network failures, missing assets and uncaught errors.
+
+Every lab must have **an identifiable beauty shot, an engineering cutaway, an actual computation state, a hands-on user interaction, and a successful or honest failed scenario**. Attach screenshot paths in dev notes only when captured for real.
+
+---
+
+# PART 19 — EXACT APPLICATION BEHAVIOR & USER MODELS
+
+## 19.1 Five modes in every lab
+
+1. **BUILD**: Camera tours and animated component construction, stages selectable.
+2. **UNDERSTAND**: Guided explanations synchronized with selected components and state.
+3. **EXPERIMENT**: User changes valid inputs, calculates actual new results and sees revised 3D animation.
+4. **INSPECT**: Freely zoom/orbit, explode, isolate, focus, read values and measure relations.
+5. **CONCLUDE**: Complete narrative with documented facts, measured demo results, limitations, glossary and replay.
+
+These are modes of *one continuous lab*, not five fake unconnected pages.
+
+## 19.2 Explanation contract
+
+For every chapter in the 3 labs, create content for Beginner, Engineer and Research. A unit has: `sceneId`, `userQuestion`, `learningGoal`, `whatYouSee`, `whyItHappens`, `stepByStep`, `actualNumbersOrState`, `mathIfApplicable`, `documentedFacts`, `illustrativeAssumptions`, `limitations`, `glossary`, `references`, `cameraTarget`, `relatedComponents`.
+
+Narration may be generated/adjusted by Nebius but verified seeded offline explanations always exist. For every claim, link to a retained public source where possible. If provider offline, display “Using curated offline explanation,” not “Muse Spark answered.” Results panels must explain exactly what was computed locally and what was conceptual.
+
+## 19.3 Interaction matrix (must work)
+
+- Enter / exit each lab from gateway.
+- Prompt type / submit / recover invalid / retry last.
+- Start/pause/resume/skip intro; reduced motion.
+- Guided/free camera toggle, orbit, zoom, reset/focus.
+- Chapter next/previous; timeline scrub and replay with deterministic state rebuilding (not impossible reverse state).
+- X-ray, isolate, explode, labels, heat/dataflow layers where applicable.
+- Muse: change token input / run numerical attention / inspect actual scores / mutate demo memory / replay failure recovery.
+- MTIA: change matrices, see product and movement / test quantization settings / change simulated workload.
+- Max: set goal, place obstacle, run planner/replan, manipulate reachable object / test unreachable scenario.
+- Explanation level change, show/hide legend, accessible glossary.
+- See real backend status and accurate usage status, reconnect where necessary.
+
+## 19.4 Logical scene records
+
+Use typed authorable scene manifests, per-lab selectors, revisionable simulation snapshots, deterministic actions and a shared timeline controller. Never drive source-of-truth computational state directly from animation callbacks. Animation is a *view of* simulation state. A time scrub can rebuild a state from a seed + action log, ensuring repeatability. User input gets validated and debounced where necessary.
+
+## 19.5 User empathy and accessibility
+
+Show short “How to explore” coaching at first launch, with skip. Keep controls minimal and contextually available rather than a permanent overwhelming dashboard. Provide explicit, easy-to-find Return to Gateway and Reduced Motion controls. Preserve user choice for quality level without accessing private accounts. Support keyboard operation and semantic explanatory content independent of 3D.
+
+---
+
+# PART 20 — TOKEN-EFFICIENT, TOOL-DRIVEN DEVELOPMENT CONTRACT
+
+**Codex token efficiency is an engineering constraint, not an excuse to skip features.**
+
+1. Do not reread the entire 17-part brief at each small change. At startup, extract immutable project requirements into `docs/REQUIREMENTS.md`; reference them as necessary.
+2. Keep `AGENTS.md` concise: include relevant skill routing, architectural invariants, safety, test commands and output format. Do not paste huge duplicated requirements inside it.
+3. Choose only relevant skills for each milestone; do not ingest all 15 full skill documents in every response.
+4. Use targeted repository searches and bounded file reads, not full recursive dumps of unrelated `node_modules`, assets or lockfiles.
+5. Before editing, enumerate specific files likely to change. Inspect affected definitions and tests. Then edit cohesively.
+6. Keep `docs/PROGRESS.md` with: phase, completed verified features, outstanding features, last tests, blockers, next 3 actions. Update after each completed milestone.
+7. Keep `docs/DECISIONS.md` for meaningful tradeoffs (e.g., scene pooling, scene graph swaps, performance presets, selected backend).
+8. Prefer small browser test suites and screenshots with stable names. Do not generate massive logs for ordinary progress.
+9. Cache truly stable data; avoid recomputing scene geometry and mathematics needlessly; do not confuse caching with hiding missing test coverage.
+10. Never send the full application source back as chat output when code files already exist. Summarize changed files, commands, observable behavior, issues and next action.
+11. API tokens are **Nebius billing tokens**, not Codex context tokens. Maintain independent caps for API usage and prompt/context efficiency.
+12. Do not purchase or install further third-party paid tools without consent. Use existing 15 skills and 3 MCPs first.
+13. When running commands that may consume credits or require authentication, use a low-cost verification plan and report the actual result.
+14. Respect provider rate limits and secret handling. Use `.env.example` placeholders, never live credentials in Git.
+15. If context becomes constrained, read `docs/PROGRESS.md`, `docs/ARCHITECTURE.md`, `docs/REQUIREMENTS.md` and resume from the most recent verified milestone rather than restarting.
+
+**Work ordering for a deadline:** Deliver one end-to-end working path for all three labs early, then deepen each into the fully specified scene-by-scene experience, and finally spend remaining effort on visual polish, QA and production readiness. A shallow placeholder for all labs is NOT the final deliverable. All unimplemented items must be explicitly tracked until addressed.
+
+---
+
+# PART 21 — REAL CODE, API SECURITY, COST & VERIFICATION
+
+## 21.1 Repo and scripts
+
+If the folder is empty except `.agents/skills`, initialize React + TypeScript + Vite in-place **without deleting any skill files**. Do not nest a new Vite project accidentally. Avoid installing `node_modules` globally. Set up runnable scripts for `dev`, `build`, `typecheck`, `lint`, `test`, `test:e2e` (adapt commands to chosen frontend/backend structure). Select versions compatible with Node 24 and current React/Three.js/R3F; check docs through Context7.
+
+Build the minimal reliable server-side Nebius proxy with input validation. Dev server must proxy API requests correctly; production deployment must not silently fail because only the frontend was deployed. Choose either an integrated serverless adapter or a separately deployable backend with clearly defined env vars and CORS settings. Provide local and production setup instructions for both.
+
+## 21.2 True-to-data visualization
+
+Simulated computational outputs must come from real algorithms in code. E.g., toy transformer `QK^T/√d` softmax weights, memory search scores, task graph state, chip matrix multiplication, quantization error, robot path length/replans. Pseudo metrics are prohibited. Cinematic time can differ from processing time as long as clearly separated. Never present JS execution on a laptop as MTIA chip throughput or real robot dynamics.
+
+## 21.3 Meta/Nebius labels
+
+Muse Wonder (frontier Meta agentic model), Muse Spark Open (open-weight hosted via Nebius), MTIA 400 (actual Meta chip product), and Max (reported Meta/Fourier prototype) must not be confused. App is “Independent educational visualization created for a hackathon, not an official Meta product.”
+
+**Verified model:** `meta-models/muse-spark-open`.
+**Verified Nebius base URL:** `https://api.tokenfactory.us-north1.nebius.com/v1/` (check availability for the account/key).
+**User-stated balance:** approximately US$25; do not assume the app knows the live balance. Default app experiment budget US$5.
+**Model platform documentation:** `https://dev.meta.ai/docs/muse-spark-open/deploy`.
+
+Implement bounded input and output; validation; safe JSON extraction; offline seeded fallback; server-only API key; `POST /api/explain`, `POST /api/scene/interpret`, `POST /api/ask`, `GET /api/health`; status and measured usage where returned. No direct browser calls to Token Factory. Only attempt a test call after functional offline simulations exist, and only with key explicitly made available to the server runtime. Never imply an untested key works.
+
+## 21.4 Browser test obligation
+
+Use Playwright MCP or Playwright test runner to open the running site and actually click through main journey; check console and network; confirm all three lab routes and prompts, mathematical scenarios, manipulation failures and return path. Capture screenshots at desktop and mobile widths if tools allow. Report actual measured browser performance and console errors; do not invent screenshots, FPS or benchmark wins. If Playwright MCP cannot connect, report it and use the installed browser test runner or a documented manual fallback.
+
+## 21.5 Acceptance gates by milestone
+
+Every milestone requires:
+1. Testable objective with specific UI interaction and data expectation.
+2. Implemented code and assets saved in repository.
+3. Type check and production build success or recorded error.
+4. Unit tests for changed computational algorithms.
+5. Browser smoke check for affected interactions where available.
+6. Screenshot/visual inspection where available, with concrete issues fixed.
+7. Updated progress notes with verifiable status.
+
+**Never report a module complete just because a file was written.**
+
+---
+
+# PART 22 — PRIMARY SOURCES & CLAIM PROVENANCE
+
+Consult these sources before asserting current model/chip/robot facts; add publication/access dates in a source registry. Respect the difference between official Meta material and news reporting:
+
+- Lusion's current interactive creative direction: `https://lusion.co/` and `https://lusion.co/about/` — artistic benchmark only; do not copy proprietary designs.
+- Meta Muse Wonder official announcement (Oct 2026): `https://about.fb.com/news/2026/10/introducing-muse-wonder-models/`.
+- Meta AI Muse Wonder technical summary: `https://research.meta.ai/blog/muse-wonder`.
+- Meta MTIA 400 hardware: `https://ai.meta.com/blog/meta-mtia-scale-ai-chips-for-billions/`.
+- Muse Spark Open Meta hosted-provider documentation: `https://dev.meta.ai/docs/muse-spark-open/deploy`.
+- Nebius model catalog: `https://nebius.com/services/token-factory/models/meta-muse-spark-open`.
+- Reuters, Oct 31 2026: `https://www.reuters.com/world/china/meta-builds-humanoid-robot-with-chinese-startup-fourier-information-says-2026-10-31/` (explicitly unverified by Reuters).
+- The Information on reported Meta/Fourier Max: `https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push/` (reported, not official full specifications).
+
+If access to any source is unavailable, state that limitation and use only verified facts. Real specs from cited articles must remain clearly separate from the illustrative geometry you author. Do not invent official documents, repo URLs, component dimensions or unpublished model internals.
+
+---
+
+# PART 23 — REQUIRED FINAL OUTPUT FROM CODEX
+
+When you have implemented and tested the site, provide:
+
+1. **What actually runs:** local app launch command, working URL/port observed, and deployment URL only if deployed.
+2. **Verified experiences:** landing + gateway + Muse Wonder + MTIA 400 + Robot Max; scene and feature completion truthfully itemized.
+3. **Demo sequence:** short camera/interactions script suitable for a 3-minute recording.
+4. **Visual proof:** paths to real saved screenshots or video recordings if made.
+5. **Testing:** exact commands, pass/fail counts and any remaining errors.
+6. **Meta model:** whether live Nebius authentication/inference was successfully tested, and estimated request spend if usage was returned.
+7. **Important limitations:** facts that are conceptual, features not implemented, resources missing, whether deployment is complete.
+8. **Next action:** the most valuable remaining piece of work if anything remains.
+
+Do not claim a full 3D simulator is complete if only an animated scene without working computation was built. Continue implementing until requirements are met or a genuine execution limit prevents further progress; in that case provide a precise, reproducible handoff.
+
+**Execution command: START IMPLEMENTING MUSE SIMLAB IN THE CURRENT REPOSITORY NOW. Use installed skills and MCPs selectively, write actual code, run actual tests, refine visual quality from beginning through all three simulations and the ending, and give a truthful completion report.**
+
+
+⋮⋮⋮⋮

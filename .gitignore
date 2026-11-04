@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env*
+!.env.example
+test-results/
+.npm-cache/
+.playwright-mcp/
+.runtime/
+playwright-report/
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
