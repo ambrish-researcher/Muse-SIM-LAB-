@@ -12,3 +12,8 @@
 
 ## Visual direction
 Obsidian #080c10, titanium, restrained information cyan, decision gold, orchestration violet and warning amber. Archivo/Space Grotesk provide technical typography. Spatial compositions have a quiet left narrative rail and a large object stage. The fixed action dock exposes restart, inspection, experiments and results; attached-component indicators show real construction state without a timeline. All meshes are original procedural work. Visual resemblance to Lusion is an art-direction reference, not a fidelity or asset claim.
+
+
+## November 6 continuation
+
+Keep improvements bounded to reproduced regressions. Listen for same-document hash changes and reuse launch actions rather than remounting Canvas. In Robot Experiment mode, elevated grasp-marker clicks project onto the ground plane before calling the existing obstacle editor; Inspect continues to select the component. Preserve all numerical and construction algorithms. Assertions target metric values rather than incidental text layout.

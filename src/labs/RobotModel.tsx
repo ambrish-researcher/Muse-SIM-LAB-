@@ -1,5 +1,5 @@
 import { useMemo, useRef, type RefObject } from "react";
-import { useFrame } from "@react-three/fiber";
+import { useFrame, type ThreeEvent } from "@react-three/fiber";
 import * as THREE from "three";
 import { Line } from "@react-three/drei";
 import { Subsystem } from "../engine/Subsystem";
@@ -381,6 +381,20 @@ export default function RobotModel() {
         Math.round(local.z / 0.7 + 3.5),
       ]),
     });
+  };
+  const editOverlay = (event: ThreeEvent<MouseEvent>) => {
+    if (useExperience.getState().mode !== "Experiment") return;
+    // Markers sit above the floor: use the ray's floor intersection rather
+    // than their elevated hit point so the selected grid cell stays accurate.
+    const plane = new THREE.Plane().setFromNormalAndCoplanarPoint(
+      new THREE.Vector3(0, 1, 0),
+      world.current.localToWorld(new THREE.Vector3(0, -0.015, 0)),
+    );
+    const hit = event.ray.intersectPlane(plane, new THREE.Vector3());
+    if (hit) {
+      event.stopPropagation();
+      editWorld(hit);
+    }
   };
   const left = useRef<THREE.Group>(null!),
     right = useRef<THREE.Group>(null!);
@@ -801,12 +815,14 @@ export default function RobotModel() {
           (r.delivery[1] - 3.5) * 0.7 + 0.25,
         ]}
       >
-        <Ring
-          radius={0.22}
-          thickness={0.008}
-          rotation={[-Math.PI / 2, 0, 0]}
-          color={r.objectState === "placed" ? COLORS.gold : COLORS.violet}
-        />
+        <group onClick={editOverlay}>
+          <Ring
+            radius={0.22}
+            thickness={0.008}
+            rotation={[-Math.PI / 2, 0, 0]}
+            color={r.objectState === "placed" ? COLORS.gold : COLORS.violet}
+          />
+        </group>
       </Subsystem>
       {count === 32 && flow && (
         <Trace

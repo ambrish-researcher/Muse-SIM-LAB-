@@ -325,7 +325,9 @@ test("robot shares real world obstacle edits, replans, places and rejects failur
     "NAVIGATE",
   );
   await page.getByRole("button", { name: "Cell 2,1", exact: true }).click();
-  await expect(page.locator(".metrics-grid")).toContainText("Replans\n1");
+  await expect(
+    page.locator(".metrics-grid > span").filter({ hasText: "Replans" }).locator("b"),
+  ).toHaveText("1");
   await page
     .getByRole("button", { name: "Run autonomous task", exact: true })
     .click();

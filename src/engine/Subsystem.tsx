@@ -50,13 +50,15 @@ function AttachedPart({
   explode: number;
 }) {
   const ref = useRef<THREE.Group>(null!);
+  const labelAnchor = useRef<THREE.Group>(null!);
   const isolated = useExperience((s) => s.isolated),
     selected = useExperience((s) => s.selected);
-  const labels = useExperience((s) => s.labels),
-    phase = useExperience((s) => s.phase),
-    lab = useExperience((s) => s.lab)!;
+  const showLabel = useExperience(
+    (s) => s.selected === id && (s.phase === "CONSTRUCTION" || s.labels),
+  );
+  const lab = useExperience((s) => s.lab)!;
   const part = BLUEPRINTS[lab][index];
-  useFrame(() => {
+  useFrame(({ camera, size }) => {
     const s = useExperience.getState(),
       duration = stageDuration(s.reduced);
     const raw =
@@ -94,6 +96,38 @@ function AttachedPart({
       (1 - align) * direction * 0.7,
       (1 - align) * direction * 0.3,
     );
+    if (labelAnchor.current) {
+      const anchor = labelAnchor.current;
+      anchor.position.set(0, s.phase === "CONSTRUCTION" ? 0.5 : 0.3, 0.25);
+      anchor.updateWorldMatrix(true, false);
+      const world = anchor.getWorldPosition(new THREE.Vector3());
+      const projected = world.clone().project(camera);
+      const depth = -world.applyMatrix4(camera.matrixWorldInverse).z;
+      if (s.phase === "CONSTRUCTION" && depth > 0) {
+        // Keep the name readable while its component enters outside the view.
+        // Only the label moves; the model and cinematic camera are untouched.
+        const halfWidth = (1.05 * camera.projectionMatrix.elements[0]) / depth;
+        const halfHeight =
+          (0.1953 * camera.projectionMatrix.elements[5]) / depth;
+        const horizontal = Math.max(0, 1 - halfWidth - 24 / size.width);
+        const vertical = Math.max(0, 1 - halfHeight - 240 / size.height);
+        const panel = document
+          .querySelector('aside[aria-label="Lab controls and explanation"]')
+          ?.getBoundingClientRect();
+        const left =
+          panel && panel.width < size.width / 2
+            ? Math.min(
+                horizontal,
+                (2 * (panel.right + 12)) / size.width - 1 + halfWidth,
+              )
+            : -horizontal;
+        projected.x = THREE.MathUtils.clamp(projected.x, left, horizontal);
+        projected.y = THREE.MathUtils.clamp(projected.y, -vertical, vertical);
+        anchor.position.copy(
+          ref.current.worldToLocal(projected.unproject(camera)),
+        );
+      }
+    }
     ref.current.userData = {
       componentId: id,
       componentName: part.name,
@@ -114,8 +148,10 @@ function AttachedPart({
       <SubsystemContext.Provider value={id}>
         {children}
       </SubsystemContext.Provider>
-      {(phase === "CONSTRUCTION" || labels) && selected === id && order === 0 && (
-        <Label3D at={[0, 0.3, 0.25]} text={part.name} />
+      {showLabel && order === 0 && (
+        <group ref={labelAnchor}>
+          <Label3D at={[0, 0, 0]} text={part.name} />
+        </group>
       )}
     </group>
   );

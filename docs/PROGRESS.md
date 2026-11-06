@@ -1,6 +1,6 @@
 # MUSE SIMLAB — final construction rebuild
 
-Updated November 5, 2026. The user's **Construct, Activate, Experiment** request supersedes conflicting requirements in the earlier master specification. Earlier `master-*.png` screenshots are historical prototype evidence.
+Updated November 6, 2026. The user's **Construct, Activate, Experiment** request supersedes conflicting requirements in the earlier master specification. Earlier `master-*.png` screenshots are historical prototype evidence.
 
 ## Implemented
 
@@ -17,8 +17,8 @@ Updated November 5, 2026. The user's **Construct, Activate, Experiment** request
 ## Verification status
 
 - Unit suite: **40 tests passed in 7 suites**. Red/green checks covered empty/sequential construction, reduced motion, paid-test approval, shared obstacle edits and exposed intermediate tensors. Existing numerical/controller tests remain passing.
-- Typecheck and lint passed before the final cinematic camera addition; the final production build and complete browser regression are in progress. Final results will be recorded in `VALIDATION.md` before handoff.
-- Actual Playwright MCP inspection already observed empty starts and partial/complete assemblies in all labs, no runtime/console errors, chip product `[19,22;43,50]`, and robot `COMPLETE` / object `placed` / 6.00 m travelled. Subsequent source refinements are covered by the pending production rerun.
+- Final continuation checks passed: typecheck, lint, 40 unit tests, production build, and all 10 production browser/API tests. See `VALIDATION.md` for exact results and remaining limitations.
+- Actual Playwright MCP inspection already observed empty starts and partial/complete assemblies in all labs, no runtime/console errors, chip product `[19,22;43,50]`, and robot `COMPLETE` / object `placed` / 6.00 m travelled. The November 6 production rerun covers the current source.
 - Actual beginning/middle/final screenshots exist for all three labs. The production suite refreshes these and adds macro/mobile views.
 
 ## Remaining limits
@@ -33,3 +33,10 @@ Updated November 5, 2026. The user's **Construct, Activate, Experiment** request
 ## Run
 
 `npm.cmd run dev` → http://localhost:5173. Production review: build, then `PORT=8788 npm.cmd start` (PowerShell: `$env:PORT='8788'; npm.cmd start`). See `README.md`, `ARCHITECTURE.md`, `VALIDATION.md` and `DEMO.md`.
+
+
+## November 6 continuation
+
+Preserved the existing three laboratories, construction engines, simulations, controls and architecture. Corrected only the missing Wonder Research disclosure, same-page hash routing and the robot grasp-marker interception of floor edits. Updated one whitespace-sensitive browser assertion and refreshed existing screenshot evidence. No commit, push or deployment was performed.
+
+Next actions, if requested: review refreshed desktop/mobile captures; configure and explicitly approve optional paid narration testing; profile the known large Three.js runtime on target devices. No additional feature changes are required for the verified local regression.

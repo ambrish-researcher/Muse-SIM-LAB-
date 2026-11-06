@@ -380,13 +380,22 @@ function Content() {
     quality = useExperience((s) => s.quality),
     generation = useExperience((s) => s.buildRevision);
   useEffect(() => {
+    const applyRoute = () => {
+      const s = useExperience.getState();
+      const route = location.hash.slice(1);
+      if (["wonder", "chip", "robot"].includes(route)) {
+        if (s.lab !== route) s.launch(route as LabId);
+      } else if (route === "gateway") {
+        s.enter();
+      }
+    };
     const s = useExperience.getState();
     if (!s.ready) {
       s.patch({ ready: true, phase: "INTRO" });
-      const route = location.hash.slice(1);
-      if (["wonder", "chip", "robot"].includes(route)) s.launch(route as LabId);
-      else if (route === "gateway") s.enter();
+      applyRoute();
     }
+    window.addEventListener("hashchange", applyRoute);
+    return () => window.removeEventListener("hashchange", applyRoute);
   }, []);
   return (
     <>
