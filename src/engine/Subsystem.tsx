@@ -53,6 +53,7 @@ function AttachedPart({
   const isolated = useExperience((s) => s.isolated),
     selected = useExperience((s) => s.selected);
   const labels = useExperience((s) => s.labels),
+    phase = useExperience((s) => s.phase),
     lab = useExperience((s) => s.lab)!;
   const part = BLUEPRINTS[lab][index];
   useFrame(() => {
@@ -113,7 +114,7 @@ function AttachedPart({
       <SubsystemContext.Provider value={id}>
         {children}
       </SubsystemContext.Provider>
-      {labels && selected === id && order === 0 && (
+      {(phase === "CONSTRUCTION" || labels) && selected === id && order === 0 && (
         <Label3D at={[0, 0.3, 0.25]} text={part.name} />
       )}
     </group>
